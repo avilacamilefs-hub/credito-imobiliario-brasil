@@ -1,3 +1,4 @@
+![Image](https://github.com/user-attachments/assets/f13ff07e-dacd-4346-9981-4c5da9333170)
 # credito-imobiliario-brasil
 A IA foi desenvolvida no NotebookLM com base em fontes institucionais e materiais técnicos sobre crédito imobiliário. A ferramenta foi utilizada para:
 
